@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains 10 questions to test students understanding of
   course material.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-071-human-reproductive-biology-fall-2005/d2ba7fadef94f8e924c663c168bfa8a2_prenatal2.pdf
+file: /media/courses/hst-071-human-reproductive-biology-fall-2005/d2ba7fadef94f8e924c663c168bfa8a2_prenatal2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: prenatal2.pdf
 uid: d2ba7fad-ef94-f8e9-24c6-63c168bfa8a2

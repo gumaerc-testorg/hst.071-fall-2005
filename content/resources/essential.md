@@ -4,8 +4,13 @@ description: This resource provides information about male system anatomy, tempe
   and the testis, female pelvic anatomy, endometriosis, menstrual cycle overview,
   fibroids, ovarian pathology, non-hormonal contraception, condoms, cervical cap,
   and spermicides.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-071-human-reproductive-biology-fall-2005/6379a0565a12887eb0793065cc413ea2_essential.pdf
+file: /media/courses/hst-071-human-reproductive-biology-fall-2005/6379a0565a12887eb0793065cc413ea2_essential.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: essential.pdf
 uid: 6379a056-5a12-887e-b079-3065cc413ea2
