@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f9c933d3-1b2d-99ce-a083-0bc12b5b975c
 resourcetype: Document
 title: non_hormonal.pdf
 uid: c406d2c5-6155-6685-162b-1485237f4a46

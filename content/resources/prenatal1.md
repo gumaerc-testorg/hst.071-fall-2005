@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 078183f1-8b13-141a-1cdd-79ec45816206
 resourcetype: Document
 title: prenatal1.pdf
 uid: 788ab7f3-72e5-fdf7-7669-097bb10a3f69

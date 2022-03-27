@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f9c933d3-1b2d-99ce-a083-0bc12b5b975c
 resourcetype: Document
 title: cervical_cancer.pdf
 uid: ab61424e-9eb2-ce70-a2c0-a66ec6558aa8

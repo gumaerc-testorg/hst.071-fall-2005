@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f9c933d3-1b2d-99ce-a083-0bc12b5b975c
 resourcetype: Document
 title: genital_warts.pdf
 uid: b6c3ea6a-d76f-3b4e-db88-ef1d07a033ad

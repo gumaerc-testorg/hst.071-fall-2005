@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f9c933d3-1b2d-99ce-a083-0bc12b5b975c
 resourcetype: Document
 title: sexual_differen.pdf
 uid: 9e566a7e-569e-932d-c81f-ec564adeb5f9

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f9c933d3-1b2d-99ce-a083-0bc12b5b975c
 resourcetype: Document
 title: fetal_surveill.pdf
 uid: c424e0b3-31e5-eede-fa92-054c23af6820

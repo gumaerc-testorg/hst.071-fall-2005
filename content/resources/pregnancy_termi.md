@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f9c933d3-1b2d-99ce-a083-0bc12b5b975c
 resourcetype: Document
 title: pregnancy_termi.pdf
 uid: 6d8eeed8-29e3-bd7f-0d5b-cf0bcaefe2ec

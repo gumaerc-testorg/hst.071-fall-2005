@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f9c933d3-1b2d-99ce-a083-0bc12b5b975c
 resourcetype: Document
 title: endomertrio_chap.pdf
 uid: 3ce3be3e-f815-aa49-ddd2-0e0cd442cbfb
