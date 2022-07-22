@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Diagrams of male and female reproductive systems.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-071f05-th.jpg
 uid: 3397e8d8-185d-4ff1-346b-fae61ffdf262
 ---
 New image Upload
-

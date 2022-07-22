@@ -6,6 +6,7 @@ file: /courses/hst-071-human-reproductive-biology-fall-2005/b35a5a541881ef9c6581
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: homework4.pdf
 uid: b35a5a54-1881-ef9c-6581-601342dc19dc
 ---
 This resource contains 27 questions to test students understanding of course material.
-

@@ -6,6 +6,7 @@ file: /courses/hst-071-human-reproductive-biology-fall-2005/e3242a442e9ebd377f19
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: temp_testis.pdf
 uid: e3242a44-2e9e-bd37-7f19-f82b092c32ae
 ---
 This resource provides information about anatomy and physiology, clinical aspects, varicoceles, incompetent valves, and heat and male contraception.
-

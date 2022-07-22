@@ -7,6 +7,7 @@ file: /courses/hst-071-human-reproductive-biology-fall-2005/cc6dd80d0c684432d3c9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: poly_ovar_syndom.pdf
 uid: cc6dd80d-0c68-4432-d3c9-ad67a82210ef
 ---
 This resource provides information about presence of oligo, elevated levels of serum LH, association between hyperinsulinemia and PCOS, and action of insulin.
-

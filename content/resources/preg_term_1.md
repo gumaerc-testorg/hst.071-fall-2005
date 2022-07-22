@@ -6,6 +6,7 @@ file: /courses/hst-071-human-reproductive-biology-fall-2005/61f2623a916e48a8e75f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: preg_term_1.pdf
 uid: 61f2623a-916e-48a8-e75f-6d2ae252bbaf
 ---
 This resource contains 8 questions to test students understanding of course material.
-

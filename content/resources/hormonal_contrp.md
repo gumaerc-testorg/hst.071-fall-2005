@@ -7,6 +7,7 @@ file: /courses/hst-071-human-reproductive-biology-fall-2005/ed4aacdcba68cee069bc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: hormonal_contrp.pdf
 uid: ed4aacdc-ba68-cee0-69bc-baa995de7d74
 ---
 This resource provides information about beth root, lectures of Russel Earl Marker, northethindrone family, desogestrel and  norgestimate, and definitions of dose.
-

@@ -7,6 +7,7 @@ file: /courses/hst-071-human-reproductive-biology-fall-2005/9e566a7e569e932dc81f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: sexual_differen.pdf
 uid: 9e566a7e-569e-932d-c81f-ec564adeb5f9
 ---
 This resource provides information about embryonic development of the urogenital ridge, germ cell development, development of the reproductive tracks, development of external genitalia, and pathogenesis.
-

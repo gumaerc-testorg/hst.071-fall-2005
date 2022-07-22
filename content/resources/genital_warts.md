@@ -7,6 +7,7 @@ file: /courses/hst-071-human-reproductive-biology-fall-2005/b6c3ea6ad76f3b4edb88
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: genital_warts.pdf
 uid: b6c3ea6a-d76f-3b4e-db88-ef1d07a033ad
 ---
 This resource provides information about clinical manifestations of genital warts, condylomata acuminata: male, condylomata acuminata: female, smooth papular wart, and keratotic flat wart.
-

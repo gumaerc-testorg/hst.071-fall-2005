@@ -7,6 +7,7 @@ file: /courses/hst-071-human-reproductive-biology-fall-2005/2631602872e7377638c8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: placental_path.pdf
 uid: 26316028-72e7-3776-38c8-4c77b911a7f9
 ---
 This resource provides information about categories of perinatal pathology, congenital infections, fetal response, transplacental infections, chronic villitis, and congenital CMV.
-

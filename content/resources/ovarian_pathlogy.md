@@ -7,6 +7,7 @@ file: /courses/hst-071-human-reproductive-biology-fall-2005/e0b9f8a2b18004b30a0f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ovarian_pathlogy.pdf
 uid: e0b9f8a2-b180-04b3-0a0f-6e1a5bb4b0e3
 ---
 This resource provides information about types of ovarian tumors, fibrothecomas, hemorrhagic cyst, ovarian surface epithelial tumors, serous cystadenoma, papillary serous cystadenocarcinoma, and key issues.
-

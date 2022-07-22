@@ -6,6 +6,7 @@ file: /courses/hst-071-human-reproductive-biology-fall-2005/d2ba7fadef94f8e924c6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: prenatal2.pdf
 uid: d2ba7fad-ef94-f8e9-24c6-63c168bfa8a2
 ---
 This resource contains 10 questions to test students understanding of course material.
-

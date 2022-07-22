@@ -7,6 +7,7 @@ file: /courses/hst-071-human-reproductive-biology-fall-2005/9ec990cc5e39344ecb78
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: prenatal_genetic.pdf
 uid: 9ec990cc-5e39-344e-cb78-75c1022798a3
 ---
 This resource provides information about indications for prenatal diagnosis, alpha fetal protein, other causes of elevated AFP, sonography, triple screen, and inhibin in combination with alpha fetal protein.
-

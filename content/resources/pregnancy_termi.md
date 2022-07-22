@@ -7,6 +7,7 @@ file: /courses/hst-071-human-reproductive-biology-fall-2005/6d8eeed829e3bd7f0d5b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: pregnancy_termi.pdf
 uid: 6d8eeed8-29e3-bd7f-0d5b-cf0bcaefe2ec
 ---
 This resource provides information about termination of pregnancy, methods of abortion, techniques, primitive attempts, foreign body method, douches, curettage techniques.
-

@@ -6,6 +6,7 @@ file: /courses/hst-071-human-reproductive-biology-fall-2005/a979051d06662181744b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: male_physiology.pdf
 uid: a979051d-0666-2181-744b-e8de4c09f165
 ---
 This resource contains 10 questions to test students understanding of course material.
-

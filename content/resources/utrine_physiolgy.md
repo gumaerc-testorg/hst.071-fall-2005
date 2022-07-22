@@ -6,6 +6,7 @@ file: /courses/hst-071-human-reproductive-biology-fall-2005/4ca08f39dbed6253f92c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: utrine_physiolgy.pdf
 uid: 4ca08f39-dbed-6253-f92c-ad2967dc2dff
 ---
 This resource contains 16 questions to test students understanding of course material.
-
