@@ -4,6 +4,7 @@ description: This resource provides information about dietary supplements, anato
   of requirements, definition of a dietary supplement, definition of drug, nutrition
   support claim, and estrogenic effects.
 file: /courses/hst-071-human-reproductive-biology-fall-2005/6f2d66de70d0a3e118e23ea419488a21_phytoestrogens.pdf
+file_size: 191164
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

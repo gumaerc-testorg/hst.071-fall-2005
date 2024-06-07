@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about leiomyomata, incidence and etiology,
   benign fibroid, leiomyoma, epidemiology, demographics, and relationship to menses.
 file: /courses/hst-071-human-reproductive-biology-fall-2005/2bc929ef6f82405914fd3a8813341950_fibroids.pdf
+file_size: 223819
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
