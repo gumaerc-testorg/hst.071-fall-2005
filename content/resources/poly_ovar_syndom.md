@@ -4,6 +4,7 @@ description: This resource provides information about presence of oligo, elevate
   levels of serum LH, association between hyperinsulinemia and PCOS, and action of
   insulin.
 file: /courses/hst-071-human-reproductive-biology-fall-2005/cc6dd80d0c684432d3c9ad67a82210ef_poly_ovar_syndom.pdf
+file_size: 195149
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

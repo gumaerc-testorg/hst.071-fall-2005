@@ -4,6 +4,7 @@ description: This resource provides information about embryonic development of t
   urogenital ridge, germ cell development, development of the reproductive tracks,
   development of external genitalia, and pathogenesis.
 file: /courses/hst-071-human-reproductive-biology-fall-2005/9e566a7e569e932dc81fec564adeb5f9_sexual_differen.pdf
+file_size: 349603
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

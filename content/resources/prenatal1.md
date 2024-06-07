@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 10 questions to test students understanding of
   course material.
 file: /courses/hst-071-human-reproductive-biology-fall-2005/788ab7f372e5fdf77669097bb10a3f69_prenatal1.pdf
+file_size: 57656
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about cardiovascular system, pulmonary,
   and laboratory parameter effects of pregnancy.
 file: /courses/hst-071-human-reproductive-biology-fall-2005/c2d2de436a715f099324beb46e205348_maternal_physio.pdf
+file_size: 214415
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

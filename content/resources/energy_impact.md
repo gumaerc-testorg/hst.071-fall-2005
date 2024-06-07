@@ -4,6 +4,7 @@ description: This resource provides information about hyperthermia, heat teratog
   ultrasound, role of bubbles, hyperthermia is proven teratogen, microwaves, and electromagnetic
   fields.
 file: /courses/hst-071-human-reproductive-biology-fall-2005/779125cb2ba8c1b9e381242ad6de5684_energy_impact.pdf
+file_size: 214208
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

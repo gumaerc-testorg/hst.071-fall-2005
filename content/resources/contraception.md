@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 10 questions to test students understanding of
   course material.
 file: /courses/hst-071-human-reproductive-biology-fall-2005/b95d5a061627f5f7e24b3420f7deb17d_contraception.pdf
+file_size: 196909
 file_type: application/pdf
 learning_resource_types:
 - Assignments

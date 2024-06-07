@@ -4,6 +4,7 @@ description: 'This resource provides information about LAM: contraceptive benefi
   LAM: non contraceptive benefits, IUD history, types of medicated IUDs, progestasert,
   and IUDs: contraceptive benefits.'
 file: /courses/hst-071-human-reproductive-biology-fall-2005/0e2ad35480be912e598cce2ea1e81b7e_non_hormonal_con.pdf
+file_size: 470683
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
