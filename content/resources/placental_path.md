@@ -4,6 +4,7 @@ description: This resource provides information about categories of perinatal pa
   congenital infections, fetal response, transplacental infections, chronic villitis,
   and congenital CMV.
 file: /courses/hst-071-human-reproductive-biology-fall-2005/2631602872e7377638c84c77b911a7f9_placental_path.pdf
+file_size: 198380
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

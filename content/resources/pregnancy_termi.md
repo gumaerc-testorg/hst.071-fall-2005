@@ -4,6 +4,7 @@ description: This resource provides information about termination of pregnancy, 
   of abortion, techniques, primitive attempts, foreign body method, douches, curettage
   techniques.
 file: /courses/hst-071-human-reproductive-biology-fall-2005/6d8eeed829e3bd7f0d5bcf0bcaefe2ec_pregnancy_termi.pdf
+file_size: 320569
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

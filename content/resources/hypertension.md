@@ -4,6 +4,7 @@ description: This resource provides information about classification of hyperten
   disorders of pregnancy, classification of preeclampsia, measurement of blood pressure,
   clinical predictors of eclampsia, magnesium sulfate and eclampsia.
 file: /courses/hst-071-human-reproductive-biology-fall-2005/2c3f6878bc5a223c9ccffe5f39bb289e_hypertension.pdf
+file_size: 957672
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

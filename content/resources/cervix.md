@@ -4,6 +4,7 @@ description: This resource provides information about appearance of cervix, pap 
   infections detected by pap smear, cervical intraepithelial neoplasia (CIN) ? risk
   factors, role of HPV, and risk factors associated with acquiring HPV infection.
 file: /courses/hst-071-human-reproductive-biology-fall-2005/ebf51c8f8000a0893c662795566368e1_cervix.pdf
+file_size: 206014
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
