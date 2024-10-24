@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about types of trophoblast neoplasia,
   partial hydatidiform mole, complete hydatidiform mole, molar gestations, choriocarcinoma,
   and choriocarcinoma in situ.
-file: /courses/hst-071-human-reproductive-biology-fall-2005/8bac21750ffe618f78539411ccc775f5_placental_path2.pdf
+file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/8bac21750ffe618f78539411ccc775f5_placental_path2.pdf
 file_size: 194630
 file_type: application/pdf
 learning_resource_types:

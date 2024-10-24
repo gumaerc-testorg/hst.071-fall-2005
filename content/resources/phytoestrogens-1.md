@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 11 questions to test students understanding of
   course material.
-file: /courses/hst-071-human-reproductive-biology-fall-2005/d3be3f80644d640bcb98b4ad859a9c36_phytoestrogens.pdf
+file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/d3be3f80644d640bcb98b4ad859a9c36_phytoestrogens.pdf
 file_size: 198444
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about pharmacology of steroid compounds,
   northethindrone family, desogestrel and norgestimate, and definitions of dose.
-file: /courses/hst-071-human-reproductive-biology-fall-2005/f241a7a288094dd4d0830efd991553cf_hormonal_con.pdf
+file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/f241a7a288094dd4d0830efd991553cf_hormonal_con.pdf
 file_size: 191826
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about example of a fetal heart rate
   tracing, variability, sleep state, fetal and neonatal heart rate variability, time
   domain analysis, and fourier analysis.
-file: /courses/hst-071-human-reproductive-biology-fall-2005/c424e0b331e5eedefa92054c23af6820_fetal_surveill.pdf
+file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/c424e0b331e5eedefa92054c23af6820_fetal_surveill.pdf
 file_size: 196735
 file_type: application/pdf
 learning_resource_types:
