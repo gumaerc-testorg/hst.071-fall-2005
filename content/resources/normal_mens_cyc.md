@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about GnRH, follicular development,
   follicular phase, ovulation, and luteal phase.
-file: /courses/hst-071-human-reproductive-biology-fall-2005/375597c2da0a5750664400fe11380885_normal_mens_cyc.pdf
+file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/375597c2da0a5750664400fe11380885_normal_mens_cyc.pdf
 file_size: 186929
 file_type: application/pdf
 learning_resource_types:

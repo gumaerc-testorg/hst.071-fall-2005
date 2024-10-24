@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 23 questions to test students understanding of
   course material.
-file: /courses/hst-071-human-reproductive-biology-fall-2005/44745554f0778bef7ba59bbe99610ce6_malereproduction.pdf
+file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/44745554f0778bef7ba59bbe99610ce6_malereproduction.pdf
 file_size: 209439
 file_type: application/pdf
 learning_resource_types:
