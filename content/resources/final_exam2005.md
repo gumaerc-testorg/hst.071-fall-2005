@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 90 questions to test students understanding of
   course material.
-file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/0805f04294a2be0683b9825fe9d7bd90_final_exam2005.pdf
+file: /courses/hst-071-human-reproductive-biology-fall-2005/0805f04294a2be0683b9825fe9d7bd90_final_exam2005.pdf
 file_size: 223188
 file_type: application/pdf
 learning_resource_types:

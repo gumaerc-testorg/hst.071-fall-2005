@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about causes of ovarian failure, genetic
   factors, viral factors, iatrogenic factors, life style factors, and other factors.
-file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/6886e7a46e1ac94bad462eb733625149_ovarian_failure.pdf
+file: /courses/hst-071-human-reproductive-biology-fall-2005/6886e7a46e1ac94bad462eb733625149_ovarian_failure.pdf
 file_size: 305444
 file_type: application/pdf
 learning_resource_types:

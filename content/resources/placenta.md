@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about general facts, development of
   the human placenta, immature chorionic villi, trophectoderm differentiation, early
   trophectoderm differentiation, and branching.
-file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/e60bcc9279b73b4d9ab1c01dea27cad9_placenta.pdf
+file: /courses/hst-071-human-reproductive-biology-fall-2005/e60bcc9279b73b4d9ab1c01dea27cad9_placenta.pdf
 file_size: 175624
 file_type: application/pdf
 learning_resource_types:
