@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about lactational control of fertility,
   contraception, IUD history, condom history, barrier methods, and sponge.
-file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/c406d2c561556685162b1485237f4a46_non_hormonal.pdf
+file: /courses/hst-071-human-reproductive-biology-fall-2005/c406d2c561556685162b1485237f4a46_non_hormonal.pdf
 file_size: 185263
 file_type: application/pdf
 learning_resource_types:

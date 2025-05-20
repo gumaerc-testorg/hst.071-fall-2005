@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/3397e8d8185d4ff1346bfae61ffdf262_hst-071f05-th.jpg
+file: /courses/hst-071-human-reproductive-biology-fall-2005/3397e8d8185d4ff1346bfae61ffdf262_hst-071f05-th.jpg
 file_size: 14922
 file_type: image/jpeg
 image_metadata:

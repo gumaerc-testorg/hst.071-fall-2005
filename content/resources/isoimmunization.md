@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about history Of Rh isoimmunization,
   ortho pharmaceutical company, clinical findings, causes of fetal hydrops, genetics
   and biochemistry of the Rh antigen, and Rh antigen complexes.
-file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/66867b19e20f60122b732f8868d8baa5_isoimmunization.pdf
+file: /courses/hst-071-human-reproductive-biology-fall-2005/66867b19e20f60122b732f8868d8baa5_isoimmunization.pdf
 file_size: 236251
 file_type: application/pdf
 learning_resource_types:

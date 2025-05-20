@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about  fibroids, atypicality, incidence
   and etiology, and diagnosis.
-file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/83ab0cbd4d00da27cad21a222a498795_fibroids_chap.pdf
+file: /courses/hst-071-human-reproductive-biology-fall-2005/83ab0cbd4d00da27cad21a222a498795_fibroids_chap.pdf
 file_size: 184439
 file_type: application/pdf
 learning_resource_types:
