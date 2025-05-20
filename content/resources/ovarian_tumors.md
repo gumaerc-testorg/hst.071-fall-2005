@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information Ovarian cancer, Risk of Ovarian Cancer,
   etiology of ovarian cancer, etiology of ovarian cancer, epithelial neoplasms, and
   serous neoplasms.
-file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/2088481550f28e05f2a83eeee59ee67d_ovarian_tumors.pdf
+file: /courses/hst-071-human-reproductive-biology-fall-2005/2088481550f28e05f2a83eeee59ee67d_ovarian_tumors.pdf
 file_size: 167269
 file_type: application/pdf
 learning_resource_types:

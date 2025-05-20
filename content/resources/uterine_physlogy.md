@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about functional classification of
   Cell junctions, the gap junction, signaling in myometrium, uterine smooth muscle,
   oxytocin, uterus, prostaglandins, and G-proteins.
-file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/7314c3dd9fd265a671247d8f5dcdce00_uterine_physlogy.pdf
+file: /courses/hst-071-human-reproductive-biology-fall-2005/7314c3dd9fd265a671247d8f5dcdce00_uterine_physlogy.pdf
 file_size: 225562
 file_type: application/pdf
 learning_resource_types:
