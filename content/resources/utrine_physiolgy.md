@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 16 questions to test students understanding of
   course material.
-file: /courses/hst-071-human-reproductive-biology-fall-2005/4ca08f39dbed6253f92cad2967dc2dff_utrine_physiolgy.pdf
+file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/4ca08f39dbed6253f92cad2967dc2dff_utrine_physiolgy.pdf
 file_size: 62275
 file_type: application/pdf
 learning_resource_types:
