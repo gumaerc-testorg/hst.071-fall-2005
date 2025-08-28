@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about anatomy and physiology, clinical
   aspects, varicoceles, incompetent valves, and heat and male contraception.
-file: /courses/hst-071-human-reproductive-biology-fall-2005/e3242a442e9ebd377f19f82b092c32ae_temp_testis.pdf
+file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/e3242a442e9ebd377f19f82b092c32ae_temp_testis.pdf
 file_size: 172608
 file_type: application/pdf
 learning_resource_types:

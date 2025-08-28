@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about testis, sertoli cells, germ
   cells, spermatozoa, leydig cells, semen, and epididymus.
-file: /courses/hst-071-human-reproductive-biology-fall-2005/2c870c24546a6902e5d70ff0d2ae98b1_male_system.pdf
+file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/2c870c24546a6902e5d70ff0d2ae98b1_male_system.pdf
 file_size: 167974
 file_type: application/pdf
 learning_resource_types:

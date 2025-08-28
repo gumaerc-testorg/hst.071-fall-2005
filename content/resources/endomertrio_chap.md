@@ -2,7 +2,7 @@
 content_type: resource
 description: This resources provides information about retrograde menstruation, coelomic
   metaplasia, dissemination, embryonic rest theory, genetics, and adherence.
-file: /courses/hst-071-human-reproductive-biology-fall-2005/3ce3be3ef815aa49ddd20e0cd442cbfb_endomertrio_chap.pdf
+file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/3ce3be3ef815aa49ddd20e0cd442cbfb_endomertrio_chap.pdf
 file_size: 232307
 file_type: application/pdf
 learning_resource_types:

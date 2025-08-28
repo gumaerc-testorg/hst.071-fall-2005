@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 11 questions to test students understanding of
   course material.
-file: /courses/hst-071-human-reproductive-biology-fall-2005/e50db2a5f6204844cefc5b05e420b7b6_infertility.pdf
+file: /ol-ocw-studio-app/courses/hst-071-human-reproductive-biology-fall-2005/e50db2a5f6204844cefc5b05e420b7b6_infertility.pdf
 file_size: 231006
 file_type: application/pdf
 learning_resource_types:
